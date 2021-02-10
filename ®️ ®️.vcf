@@ -1,0 +1,65 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 13.5.1//EN
+N:®️;®️;;;
+FN:®️ ®️
+ORG:•Catalano•;
+EMAIL;type=INTERNET;type=HOME;type=pref:email
+TEL;type=HOME;type=VOICE;type=pref:THOMASjCatalano**
+TEL;type=WORK;type=VOICE:+1 (334) 953-7272
+item1.TEL:+1 (313) 348-0827
+item1.X-ABLabel:_$!<School>!$_
+TEL;type=IPHONE;type=CELL;type=VOICE:+1 (313) 348-0827
+TEL;type=CELL;type=VOICE:+
+TEL;type=MAIN:+1
+TEL;type=HOME;type=FAX:+0
+TEL;type=WORK;type=FAX:0+0+++
+TEL;type=PAGER:+++
+TEL;type=OTHER;type=VOICE:++++
+TEL;type=HOME;type=VOICE:+++++
+TEL;type=HOME;type=VOICE:+++++
+TEL;type=HOME;type=VOICE:+++++
+item2.ADR;type=HOME;type=pref:;;;;;;United States
+item2.X-ABADR:us
+item3.ADR;type=HOME:;;sSTREET\nsTREET;Catalano;CATALANO;-0-;U.S. Virgin Islands
+item3.X-ABADR:vi
+item4.ADR;type=WORK:;;sTREET\n101 Independense Avenue.S.E\,.;D.C;DISTRICT OF COLUMBIA;20540;Vatican
+item4.X-ABADR:va
+X-SOCIALPROFILE:x-apple:135744812
+X-SOCIALPROFILE;type=twitter:http://twitter.com/tomsnode
+X-SOCIALPROFILE;type=facebook:http://www.facebook.com/tomcatalano.0@gmail.com
+X-SOCIALPROFILE;type=flickr:http://www.flickr.com/photos/flickr
+X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/linkedln
+X-SOCIALPROFILE;type=myspace:http://www.myspace.com/myspace
+X-SOCIALPROFILE;type=sinaweibo:http://weibo.com/n/sinaweibo
+X-SOCIALPROFILE;type=facebook:http://www.facebook.com/facebook
+X-SOCIALPROFILE;type=facebook:http://www.facebook.com/facebook
+item5.URL;type=pref:URL
+item5.X-ABLabel:_$!<HomePage>!$_
+URL;type=HOME:.url
+URL;type=WORK:url
+item6.URL:IRL
+item6.X-ABLabel:_$!<School>!$_
+item7.URL:lru
+item7.X-ABLabel:_$!<Other>!$_
+item8.URL:rul
+item8.X-ABLabel:_$!<HomePage>!$_
+item9.URL:lur
+item9.X-ABLabel:_$!<HomePage>!$_
+item10.URL://///////////////////////////////////
+item10.X-ABLabel:_$!<HomePage>!$_
+item11.URL:ase.com
+item11.X-ABLabel:_$!<HomePage>!$_
+item12.URL:ase.org
+item12.X-ABLabel:_$!<HomePage>!$_
+item13.URL:ase.edu
+item13.X-ABLabel:_$!<HomePage>!$_
+item14.URL:sex.edu
+item14.X-ABLabel:_$!<HomePage>!$_
+item15.URL:0.edu
+item15.X-ABLabel:_$!<HomePage>!$_
+item16.URL:gob.mx
+item16.X-ABLabel:_$!<HomePage>!$_
+item17.IMPP;X-SERVICE-TYPE=Skype;type=pref:skype:instantmessage
+item17.X-ABLabel:Skype
+END:VCARD
